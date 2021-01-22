@@ -1,0 +1,10 @@
+--------------------------1f5f09336fcc8280
+Content-Disposition: form-data; name="file"; filename="testhub.bat"
+Content-Type: application/octet-stream
+
+ddb share -r -s https://testhub.dronedb.app *.jpg
+--------------------------1f5f09336fcc8280
+Content-Disposition: form-data; name="path"
+
+testhub.bat
+--------------------------1f5f09336fcc8280--

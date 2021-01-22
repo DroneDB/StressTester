@@ -1,0 +1,14 @@
+--------------------------23ed84b201cb5afd
+Content-Disposition: form-data; name="file"; filename="localhost.bat"
+Content-Type: application/octet-stream
+
+@echo off
+SETLOCAL
+set http_proxy=http://localhost:8000
+
+ddb share -r -s http://localhost:25927 *.*
+--------------------------23ed84b201cb5afd
+Content-Disposition: form-data; name="path"
+
+localhost.bat
+--------------------------23ed84b201cb5afd--

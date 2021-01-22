@@ -1,0 +1,10 @@
+--------------------------ef42d2948e6bdc58
+Content-Disposition: form-data; name="file"; filename="testhub1.bat"
+Content-Type: application/octet-stream
+
+ddb share -r -s https://testhub1.dronedb.app *.*
+--------------------------ef42d2948e6bdc58
+Content-Disposition: form-data; name="path"
+
+testhub1.bat
+--------------------------ef42d2948e6bdc58--
